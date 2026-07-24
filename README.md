@@ -1,4 +1,10 @@
-# BANK-CHURN-ANALYSIS-DASHBOARD-
+<p align="center">
+  <img src="Images/bank_churn_banner.png" alt="Bank Churn Analysis Dashboard Banner" width="100%">
+</p>
+
+# 🏦 Bank Churn Analysis Dashboard
+
+Interactive Power BI dashboard analyzing customer churn patterns and providing actionable business insights.# BANK-CHURN-ANALYSIS-DASHBOARD-
 # 🏦 Bank Churn Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
