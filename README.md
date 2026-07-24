@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Boladale-Hajarat/YOUR-REPOSITORY-NAME/main/bank_churn_banner.png" alt="Bank Churn Analysis Banner" width="100%">
+  <img src="bank_churn_banner.png" alt="Bank Churn Analysis Banner" width="100%">
 </p>
 
-----
+
 # 🏦 Bank Churn Analysis Dashboard
 
 Interactive Power BI dashboard analyzing customer churn patterns and providing actionable business insights.# BANK-CHURN-ANALYSIS-DASHBOARD-
