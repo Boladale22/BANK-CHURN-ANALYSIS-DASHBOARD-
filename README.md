@@ -62,7 +62,7 @@ The following data preparation steps were performed:
 - Built a star schema data model
 
 <p align="center">
-  <img src="data_cleanng.png..png" alt="Data Cleaning & Preparation" width="100%">
+  <img src="data_cleaning.png" alt="Data Cleaning & Preparation" width="100%">
 </p>
 
 ---
