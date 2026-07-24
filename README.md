@@ -41,6 +41,9 @@ The dashboard provides business insights into customer demographics, banking beh
 
 # 🧹 Data Cleaning & Preparation
 
+<p align="center">
+  <img src="bank_churn_insights.png" alt="Bank Churn Insights Page" width="100%">
+</p>
 The dataset was cleaned and transformed using Power Query.
 
 The following data preparation steps were performed:
