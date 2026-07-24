@@ -7,13 +7,7 @@
 # 🏦 Bank Churn Analysis Dashboard
 
 Interactive Power BI dashboard analyzing customer churn patterns and providing actionable business insights.# BANK-CHURN-ANALYSIS-DASHBOARD-
-# 🏦 Bank Churn Analysis Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
-
----
 
 # 📖 Project Overview
 
