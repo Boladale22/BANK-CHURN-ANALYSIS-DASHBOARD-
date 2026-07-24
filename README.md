@@ -68,9 +68,18 @@ The following data preparation steps were performed:
 
 ---
 
-# 📊 Dashboard Pages
+## 📊 Dashboard Pages
 
-## 🏠 Home Page
+<p align="center">
+  <img src="bank_churn_home.png" alt="Home Page" width="48%">
+  <img src="bank_churn_details.png" alt="Details Page" width="48%">
+</p>
+
+<p align="center">
+  <img src="bank_churn_insights.png" alt="Insights Page" width="97%">
+</p>
+
+
 
 ### KPIs
 
@@ -81,7 +90,6 @@ The following data preparation steps were performed:
 - Churned Customers
 
 ### Charts
-
 - Churn by Geography
 - Churn by Gender
 - Churn by Age Group
