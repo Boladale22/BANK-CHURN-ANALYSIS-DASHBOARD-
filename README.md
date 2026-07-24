@@ -70,15 +70,24 @@ The following data preparation steps were performed:
 
 ## 📊 Dashboard Pages
 
+### 🏠 Home Page
 <p align="center">
-  <img src="bank_churn_home.png" alt="Home Page" width="48%">
-  <img src="bank_churn_details.png" alt="Details Page" width="48%">
+  <img src="bank_churn_home.png" alt="Bank Churn Home Page" width="100%">
 </p>
 
+---
+
+### 📋 Details Page
 <p align="center">
-  <img src="bank_churn_insights.png" alt="Insights Page" width="97%">
+  <img src="bank_churn_details.png" alt="Bank Churn Details Page" width="100%">
 </p>
 
+---
+
+### 💡 Insights Page
+<p align="center">
+  <img src="bank_churn_insights.png" alt="Bank Churn Insights Page" width="100%">
+</p>
 
 
 ### KPIs
