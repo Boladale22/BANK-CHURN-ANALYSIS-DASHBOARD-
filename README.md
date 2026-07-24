@@ -64,24 +64,16 @@ The following data preparation steps were performed:
 
 ## 📊 Dashboard Page
 
+### 🏠 Home Page
 
 <p align="center">
-  <img src="bank-churn-home.png" alt="Bank Churn Home Page" width="100%">
+  <img src="bank-churn-home.png" alt="Bank Churn Analysis Home Page" width="100%">
 </p>
+
+This page provides high-level executive KPIs (Total Customers, Churn Rate, Active Customers) and churn distribution broken down by geography, gender, age groups, product usage, and member activity status.
+
 
 ---
-
-### 📋 Details Page
-<p align="center">
-  <img src="bank_churn_details.png" alt="Bank Churn Details Page" width="100%">
-</p>
-
----
-
-### 💡 Insights Page
-<p align="center">
-  <img src="bank_churn_insights.png" alt="Bank Churn Insights Page" width="100%">
-</p>
 
 
 ### KPIs
@@ -104,6 +96,9 @@ The following data preparation steps were performed:
 
 ## 📄 Details Page
 
+<p align="center">
+  <img src="bank_churn_details.png" alt="Bank Churn Details Page" width="100%">
+</p>
 Provides a deeper analysis of customer characteristics.
 
 ### KPIs
@@ -128,6 +123,9 @@ Provides a deeper analysis of customer characteristics.
 ---
 
 ## 💡 Insights Page
+<p align="center">
+  <img src="bank_churn_insights.png" alt="Bank Churn Insights Page" width="100%">
+</p>
 
 Summarizes the major findings and business recommendations from the analysis.
 
