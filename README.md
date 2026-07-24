@@ -68,11 +68,11 @@ The following data preparation steps were performed:
 
 ---
 
-## 📊 Dashboard Pages
+## 📊 Dashboard Page
 
-### 🏠 Home Page
+
 <p align="center">
-  <img src="bank_churn_home.png" alt="Bank Churn Home Page" width="100%">
+  <img src="bank-churn-home.png" alt="Bank Churn Home Page" width="100%">
 </p>
 
 ---
