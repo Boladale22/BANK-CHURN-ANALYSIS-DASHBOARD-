@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Images/bank_churn_banner.png" alt="Bank Churn Analysis Dashboard Banner" width="100%">
+  <img src="Images/Banner.png" alt="Bank Churn Analysis Dashboard Banner" width="100%">
 </p>
+
 
 # 🏦 Bank Churn Analysis Dashboard
 
