@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="Images/Banner.png" alt="Bank Churn Analysis Dashboard Banner" width="100%">
-</p>
-
+https://raw.githubusercontent.com/Boladale-Hajarat/YOUR-REPOSITORY-NAME/main/bank_churn_banner.png
 
 # 🏦 Bank Churn Analysis Dashboard
 
